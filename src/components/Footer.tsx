@@ -36,11 +36,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-teal-400 flex-shrink-0" />
-                <span>NAPTIP Hotline: <strong className="text-white">0800 888 0000</strong></span>
+                <span>Uni Security Hotline: <strong className="text-white">0800 888 0000</strong></span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-teal-400 flex-shrink-0" />
-                <span>Platform Support: <strong className="text-white">support@uni-sgbv.org</strong></span>
+                <span>Platform Support: <strong className="text-white">sgbv@uni.org</strong></span>
               </li>
             </ul>
           </div>
