@@ -80,8 +80,8 @@ export default function Home() {
             {
               icon: <FileText className="w-5 h-5" />,
               step: '01',
-              title: 'Select your faculty',
-              desc: 'Choose your faculty from the list so your report reaches the right office.',
+              title: 'Click on Report Incident',
+              desc: 'Access the reporting portal by clicking on the Report Incident Button.',
             },
             {
               icon: <FileText className="w-5 h-5" />,
